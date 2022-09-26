@@ -1,5 +1,11 @@
-# Reinvented Pixel Art Animation GM
- A rectreation of <a href="https://github.com/aarthificial">aarthificial</a>'s <a href="https://www.youtube.com/watch?v=HsOKwUwL1bE&t=2s">"Reinvented Pixel Art Animation" system</a> in Gamemaker
+<p align="center">
+  <img src="https://github.com/ElectroDev1/Reinvented-Pixel-Art-Animation-GM/blob/main/logo.png" style="display:block; margin:auto; width:300px">
+</p>
+<h1 align="center">RPAA GM</h1>
+<p align="center" >
+  A rectreation of <a href="https://github.com/aarthificial">aarthificial</a>'s <a href="https://www.youtube.com/watch?v=HsOKwUwL1bE&t=2s">"Reinvented Pixel Art Animation" system</a> in Gamemaker
+ </p>
+ <h2 align="center"><a href="https://github.com/ElectroDev1/Reinvented-Pixel-Art-Animation-GM/releases/tag/v1.0.0">Download the yymps </a></h2>
  
  <hr>
  
