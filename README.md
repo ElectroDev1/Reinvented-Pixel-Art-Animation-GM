@@ -7,6 +7,8 @@
  </p>
  <h2 align="center"><a href="https://github.com/ElectroDev1/Reinvented-Pixel-Art-Animation-GM/releases/tag/v1.0.0">Download the yymps </a></h2>
  
+ <h4 align="center">WARNING! - The system might not work correctly on different sprite sizes,  Iit will be fixed once I manage to get around to it.</h4>
+ 
  <hr>
  
 # Setup and Usage
